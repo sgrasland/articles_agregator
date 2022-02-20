@@ -14,4 +14,4 @@ This service starts one background task for each website declared in config :
 
 Implementation :
 
-![WebsiteReaderService_Implementation](https://user-images.githubusercontent.com/47080041/154859423-579e9207-c7ab-4e8c-96da-dd31f8a17547.PNG)
+![WebsiteReaderService_Implementation](https://user-images.githubusercontent.com/47080041/154859752-c22224a9-f002-4b02-bab7-f0c60fb9b58a.PNG)
